@@ -1,0 +1,177 @@
+{
+  "categories": [
+    {"id": "sneakers", "title": "Кроссовки", "emoji": "👟"},
+    {"id": "clothing", "title": "Одежда", "emoji": "🧥"},
+    {"id": "accessories", "title": "Аксессуары", "emoji": "🧢"}
+  ],
+  "products": [
+    {
+      "id": "Nike Air Max Deluxe",
+      "category": "sneakers",
+      "name": "Nike Air Max Deluxe",
+      "description": "Dynamic Air — четыре камеры с воздухом, мягкий упругий шаг. Флагман сезона.",
+      "sizes": ["43"],
+      "price": 200,
+      "badge": "new drop",
+      "is_new": true,
+      "photo": "products/Nike Air Max Deluxe.jpg"
+    },
+    { 
+
+      "id": "stone_island_1 hoodie",
+      "category": "clothing",
+      "name": "hoodie Stone Island",
+      "description": " Отличный выбор для повседневной носки.",
+      "sizes": [ "M"],
+      "price": 440 ,
+      "badge": "new drop",
+      "is_new": true,
+      "photo": "products/stone_island_2.jpg"
+    },
+
+    { 
+
+      "id": "stone_island_1 jacket",
+      "category": "clothing",
+      "name": "Jacket Stone Island",
+      "description": " Отличный выбор для повседневной носки.",
+      "sizes": [ "L"],
+      "price": 1000 ,
+      "badge": "new drop",
+      "is_new": true,
+      "photo": "products/stone_island_1.jpg"
+    },
+    {
+      "id": "nike-acg-hoodie",
+      "category": "clothing",
+      "name": "Nike ACG Hoodie",
+      "description": "Уютная толстовка с фирменным треугольным логотипом. Отличный выбор для повседневной носки.",
+      "sizes": ["S", "M", "L", "XL"],
+      "price": 120,
+      "badge": "new drop",
+      "is_new": true,
+      "photo": "products/nike_acg_1.jpg"
+    },
+    {
+      "id": "Lacoste",
+      "category": "sneakers",
+      "name": "Lacoste",
+      "description": "Твой повседневный Statement. Кроссовки Lacoste — это узнаваемый стиль, премиальное качество и комфорт на весь день. 100% оригинал.",
+      "sizes": [ "42"],
+      "price": 120,
+      "badge": "hit",
+      "is_new": false,
+      "photo": "products/Lacoste.jpg"
+    },
+    {
+      "id": "Nike-Air-Force-1",
+      "category": "sneakers",
+      "name": "Nike Air Force 1",
+      "description": "Nike Air Force 1. Контрастный дизайн в черном цвете с яркими красными акцентами и неоновой подошвой. Классика, которая привлекает внимание. Состояние 9/10, оригинал.",
+      "sizes": [ "45.5"],
+      "price": 200 ,
+      "badge": "hit",
+      "is_new": true,
+      "photo": "products/Nike Air Force 1.jpg"
+    },
+    {
+      "id": "Nike ACG",
+      "category": "sneakers",
+      "name": "Nike ACG",
+      "description": "Nike Gore-Tex. Водонепроницаемая мембрана, утилитарный бежевый дизайн и надежное сцепление. Защита от непогоды в стильном исполнении.",
+      "sizes": [ "41", "42"],
+      "price": 350 ,
+      "badge": "hit",
+      "is_new": true,
+      "photo": "products/Nike ACG.jpg"
+    },
+    {
+      "id": "Carhartt-hoodie",
+      "category": "clothing",
+      "name": "hoodie Carhartt",
+      "description": "Carhartt Hoodie. Классика уличного стиля в минималистичном исполнении. Плотный черный материал, узнаваемый белый логотип и свободный крой. Идеальная база для повседневного гардероба — надежная, теплая и всегда в тренде.",
+      "sizes": ["M"],
+      "price": 120,
+      "badge": "new drop",
+      "is_new": false,
+      "photo": "products/Carhartt.jpg"
+    },
+    {
+      "id": "Air-Jordan_1",
+      "category": "clothing",
+      "name": "Air Jordan",
+      "description": "Air Jordan Washed Hoodie. Эффект вываренного денима и винтажный стиль. Насыщенный горчично-коричневый оттенок, мягкий флис и легендарный логотип Jumpman. Идеальная вещь для тех, кто ценит уникальный уличный стиль. Состояние 10/10, оригинал.",
+      "sizes": ["L"],
+      "price": 180,
+      "badge": "new drop",
+      "is_new": false,
+      "photo": "products/Air Jordan_1.jpg"
+    },
+    {
+      "id": "Air-Jordan",
+      "category": "clothing",
+      "name": "Air Jordan",
+      "description": "Air Jordan Fleece Hoodie. Максимальный уют и узнаваемый стиль. Мягкий белый флис с легендарным номером «23» и фирменным логотипом. Идеально для прохладных вечеров и создания расслабленного уличного образа. 100% оригинал.",
+      "sizes": ["L"],
+      "price": 180,
+      "badge": "new drop",
+      "is_new": false,
+      "photo": "products/Air Jordan.jpg"
+    },
+    {
+      "id": "Lonsdale-Hoodie",
+      "category": "clothing",
+      "name": "Lonsdale Hoodie",
+      "description": "Lonsdale London Hoodie. Атлетическая классика в темно-сером цвете. Плотный материал, узнаваемый белый логотип и удобный крой. Идеальная база для повседневного гардероба в стиле стритвир. Состояние 10/10, оригинал.",
+      "sizes": ["L"],
+      "price": 120,
+      "badge": "new drop",
+      "is_new": true,
+      "photo": "products/Lonsdale Hoodie.jpg"
+    },
+    {
+      "id": "Patagonia-Fleece",
+      "category": "clothing",
+      "name": "Patagonia Fleece",
+      "description": "Patagonia Fleece. Классика аутдор-стиля в темно-синем цвете. Мягкий, теплый флис с контрастными красными молниями и узнаваемым логотипом. Идеален для города и активного отдыха. Состояние 10/10, оригинал.",
+      "sizes": ["M"],
+      "price": 100,
+      "badge": "new drop",
+      "is_new": true,
+      "photo": "products/Patagonia Fleece.jpg"
+    },
+    {
+      "id": "C.P. Company-Chrome R ",
+      "category": "clothing",
+      "name": "pants C.P. Company-Chrome R ",
+      "description": "C.P. Company Chrome R. Технологичный минимализм в черном исполнении. Легкий, износостойкий материал и узнаваемый логотип на кармане. Идеальны для создания современного городского образа. Состояние: новые, оригинал.",
+      "sizes": ["L","XL"],
+      "price": 650,
+      "badge": "new drop",
+      "is_new": true,
+      "photo": "products/C.P. Company Chrome R.jpg"
+    },
+    {
+      "id": "Trapstar Puffer-jacket",
+      "category": "clothing",
+      "name": "Jacket Trapstar Puffer ",
+      "description": "Trapstar Puffer. Строгий черный дизайн с культовым белым логотипом. Теплый, объемный и невероятно стильный. Идеальный выбор для холодной погоды, который мгновенно делает образ заметным. Состояние 9.5/10, оригинал.",
+      "sizes": ["M"],
+      "price": 350,
+      "badge": "new drop",
+      "is_new": true,
+      "photo": "products/Trapstar Puffer.jpg"
+    },
+    {
+      "id": "ny-cap",
+      "category": "accessories",
+      "name": "New Era 59FIFTY NY",
+      "description": "Классическая бейсболка с прямым козырьком.",
+      "sizes": ["7 1/8", "7 1/4", "7 3/8", "7 1/2"],
+      "price": 49,
+      "badge": null,
+      "is_new": false,
+      "photo": "products/ny-cap.jpg"
+    }
+  ]
+}
