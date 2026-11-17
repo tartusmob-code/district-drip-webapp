@@ -16,6 +16,17 @@
       "is_new": true,
       "photo": "products/Nike Air Max Deluxe.jpg"
     },
+     {
+      "id": "The-North-Face",
+      "category": "clothing",
+      "name": "The North Face",
+      "description": "Оригинальная куртка Ralph Lauren в классическом стиле. Цвет — бежевый/хаки. Размер L-XL. Состояние отличное — 9/10. Лёгкая ветровка с воротником-стойкой, застёжкой-молнией и фирменным логотипом Polo на груди. Идеальный вариант для межсезонья.",
+      "sizes": ["L"],
+      "price": 220,
+      "badge": "new drop",
+      "is_new": true,
+      "photo": "products/The North Face.jpg"
+    },
     {
       "id": "Ralph-Lauren",
       "category": "clothing",
@@ -26,7 +37,7 @@
       "badge": "new drop",
       "is_new": true,
       "photo": "products/Ralph.jpg"
-    }
+    },
     { 
 
       "id": "stone_island_1 hoodie",
