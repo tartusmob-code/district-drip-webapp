@@ -17,6 +17,17 @@
       "photo": "products/Nike_Air_Max_Deluxe.jpg"
     },
     {
+      "id": "Tommy_Hilfiger_Vintage",
+      "category": "clothing",
+      "name": "Tommy Hilfiger Vintage",
+      "description": "Винтажная джинсовая куртка на молнии с вязаными рукавами. Деним с потёртостями, рукава тёмно-синие, у куртки воротник и карманы на молнии. Логотип на вороте и на нижнем краю.",
+      "sizes": ["M"],
+      "price": 100,
+      "badge": "new drop",
+      "is_new": true,
+      "photo": "products/Tommy_Hilfiger_Vintage.jpg"
+    },
+    {
       "id": "Nike-Swoosh",
       "category": "clothing",
       "name": "Nike Swoosh",
