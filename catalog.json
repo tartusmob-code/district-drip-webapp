@@ -17,6 +17,17 @@
       "photo": "products/Nike_Air_Max_Deluxe.jpg"
     },
     {
+      "id": "Nike_Swoosh",
+      "category": "clothing",
+      "name": "Nike Swoosh",
+      "description": "Черный цвет, золотая надпись. Размер M, состояние 9/10. Классический крой с капюшоном и карманом-кенгуру."
+      "sizes": ["L"],
+      "price": 220,
+      "badge": "new drop",
+      "is_new": true,
+     "photo": "products/Nike_Swoosh.jpg"
+    },
+    {
       "id": "The-North-Face",
       "category": "clothing",
       "name": "The North Face",
