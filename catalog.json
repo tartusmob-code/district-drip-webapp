@@ -17,6 +17,17 @@
       "photo": "products/Nike_Air_Max_Deluxe.jpg"
     },
     {
+      "id": "Karl-Kani",
+      "category": "clothing",
+      "name": "Karl-Kani",
+      "description": "Оригинальная флисовая куртка Karl Kani в кремовом цвете. Размер M, состояние 9/10. Тёплая модель на молнии с воротником-стойкой и вышитым логотипом на груди. Идеальный вариант для холодной погоды.",
+      "sizes": ["M"],
+      "price": 120,
+      "badge": "new drop",
+      "is_new": true,
+      "photo": "products/karl.jpg"
+    },
+    {
       "id": "Tommy_Hilfiger_Vintage",
       "category": "clothing",
       "name": "Tommy Hilfiger Vintage",
