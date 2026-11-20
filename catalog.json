@@ -17,6 +17,17 @@
       "photo": "products/Nike_Air_Max_Deluxe.jpg"
     },
     {
+      "id": "shtani-ralph",
+      "category": "clothing",
+      "name": "Ralph Lauren",
+      "description": "Ralph Lauren Joggers. Спортивный комфорт в классическом стиле. Светло-серые штаны из мягкого флиса с фирменным логотипом. Идеальны для повседневной носки и расслабленного образа. Состояние 9/10, оригинал.",
+      "sizes": ["XL"],
+      "price": 120,
+      "badge": "new drop",
+      "is_new": true,
+      "photo": "products/shtani.jpg"
+    },
+    {
       "id": "The-North-Face-Alaska-Puffer",
       "category": "clothing",
       "name": "The North Face Alaska Puffer ",
